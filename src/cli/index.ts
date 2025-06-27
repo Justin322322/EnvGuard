@@ -172,7 +172,7 @@ ${chalk.bold.green('██╔══╝  ██║╚██╗██║╚██�
 ${chalk.bold.green('███████╗██║ ╚████║ ╚████╔╝ ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝')}
 ${chalk.bold.green('╚══════╝╚═╝  ╚═══╝  ╚═══╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝')}
 
-${chalk.bold.yellow('🛡️  Environment File Validator & Security Analyzer')}
+${chalk.bold.yellow('Environment File Validator & Security Analyzer')}
 ${chalk.gray('Secure your environment variables with comprehensive validation')}
 `;
     console.log(banner);
